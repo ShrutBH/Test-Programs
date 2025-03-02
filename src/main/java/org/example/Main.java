@@ -8,7 +8,9 @@ public class Main {
         int a=10,b=20;
         int c=a+b;
         int d=a*b;
+        int e=a-b;
+        System.out.println("Addition of two numbers is "+c);
         System.out.println(d);
-        System.out.println(c);
+        System.out.println(e);
     }
 }
